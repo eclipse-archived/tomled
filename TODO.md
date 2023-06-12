@@ -30,4 +30,7 @@ Some ideas of improvements
 5. Configurable comment character
    <br>By default: '#' only. 
    One could want also ';' as a comment, so then INI files (Windows) are also displayed properly
-   
+
+6. Fully automated CI/CD pipeline using GitHub Workflows/Actions
+
+7. Automated dependdency checks with dependabot or rennovate
